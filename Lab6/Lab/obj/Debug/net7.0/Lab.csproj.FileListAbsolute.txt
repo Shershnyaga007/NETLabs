@@ -1,0 +1,15 @@
+N:\NETLabs\Lab6\Lab\bin\Debug\net7.0\Lab.exe
+N:\NETLabs\Lab6\Lab\bin\Debug\net7.0\Lab.deps.json
+N:\NETLabs\Lab6\Lab\bin\Debug\net7.0\Lab.runtimeconfig.json
+N:\NETLabs\Lab6\Lab\bin\Debug\net7.0\Lab.dll
+N:\NETLabs\Lab6\Lab\bin\Debug\net7.0\Lab.pdb
+N:\NETLabs\Lab6\Lab\obj\Debug\net7.0\Lab.csproj.AssemblyReference.cache
+N:\NETLabs\Lab6\Lab\obj\Debug\net7.0\Lab.GeneratedMSBuildEditorConfig.editorconfig
+N:\NETLabs\Lab6\Lab\obj\Debug\net7.0\Lab.AssemblyInfoInputs.cache
+N:\NETLabs\Lab6\Lab\obj\Debug\net7.0\Lab.AssemblyInfo.cs
+N:\NETLabs\Lab6\Lab\obj\Debug\net7.0\Lab.csproj.CoreCompileInputs.cache
+N:\NETLabs\Lab6\Lab\obj\Debug\net7.0\Lab.dll
+N:\NETLabs\Lab6\Lab\obj\Debug\net7.0\refint\Lab.dll
+N:\NETLabs\Lab6\Lab\obj\Debug\net7.0\Lab.pdb
+N:\NETLabs\Lab6\Lab\obj\Debug\net7.0\Lab.genruntimeconfig.cache
+N:\NETLabs\Lab6\Lab\obj\Debug\net7.0\ref\Lab.dll
