@@ -22,7 +22,7 @@ abstract class Lab4
         PrintParticipants(participants);
     }
     
-    static void PrintParticipants(List<Participant> participants)
+    private static void PrintParticipants(List<Participant> participants)
     {
         foreach (var participant in participants)
         {
